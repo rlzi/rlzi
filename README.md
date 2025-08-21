@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Banner Cyber -->
+<p align="center">
+  <img src="https://i.ibb.co/NsYnyF0/matrix-green.gif" width="600" alt="Matrix Hacker">
+</p>
 
-<!--
-**rlzi/rlzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">💀 rlzy | Neo Coder in Python 🐍</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"A Matrix é o código... e eu estou aprendendo a quebrá-lo linha por linha."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+```python
+class Hacker:
+    def __init__(self):
+        self.name = "rlzy"
+        self.learning = "Python"
+        self.mission = "Despertar e decodificar a Matrix"
+
+    def __str__(self):
+        return f"{self.name} | Estudando {self.learning} | Missão: {self.mission}"
+
+me = Hacker()
+print(me)
