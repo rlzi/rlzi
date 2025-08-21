@@ -40,150 +40,18 @@
 
 <!-- GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rlzy&show_icons=true&hide_title=true&theme=chartreuse-dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rlzi&show_icons=true&hide_title=true&theme=chartreuse-dark" height="150"/>
 
 <!-- Most Used Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlzy&layout=compact&theme=chartreuse-dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlzi&layout=compact&theme=chartreuse-dark" height="150"/>
 
 <!-- Streak -->
 
-<img src="https://streak-stats.demolab.com?user=rlzy&theme=chartreuse-dark&hide_border=false" height="150"/>
+<img src="https://streak-stats.demolab.com?user=rlzi&theme=chartreuse-dark&hide_border=false" height="150"/>
 
 <!-- Activity Graph -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rlzy&theme=react-dark&area=true&hide_border=true&color=00ff00&line=00ff00&point=00ff00&custom_title=Atividade%20de%20Commits"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rlzi&theme=react-dark&area=true&hide_border=true&color=00ff00&line=00ff00&point=00ff00&custom_title=Atividade%20de%20Commits"/>
 
 </div>
-
----
-
-
-# decode_hex.py — converte hex -> texto
-s = "6861636b2074686520706c65726f6d61"
-print(bytes.fromhex(s).decode())  # hack the pleroma
-```
-
----
-
-## 🧠 Sobre
-
-<p id="sobre"></p>
-
-```python
-class NeoAprendiz:
-    stack = ["Python", "Git", "Linux"]
-    goals = ["automatizar", "raspar dados", "hacking ético"]
-
-    def level_up(self):
-        return "aprender todos os dias"
-```
-
-* 🌱 Atualmente: **aprendendo Python**.
-* 🔭 Foco: lógica, scripts CLI, requests, automação.
-* 🧩 Interesse: ciberestética verde, terminal e minimalismo.
-
----
-
-## 🐍 Projetos (em progresso)
-
-* `matrix-cli`: utilitários de terminal com verde neon.
-* `hex-decoder`: script para converter HEX/BASE64 rapidamente.
-* `crawler-lite`: raspador simples com `requests` + `selectolax`.
-
----
-
-## 🐍🐍 “Snake” das Contribuições (gráfico animado)
-
-> Mostra uma cobrinha comendo seus commits. Ative via GitHub Actions.
-
-**1) Adicione ao README:**
-
-```md
-![snake gif](https://github.com/rlzy/rlzy/blob/output/github-contribution-grid-snake.svg)
-```
-
-**2) Crie o workflow `.github/workflows/snake.yml`:**
-
-```yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rlzy
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Troque **`rlzy`** pelo seu usuário.
-
----
-
-## ⚙️ Setup rápido (tema verde hacker no perfil)
-
-<p id="setup"></p>
-
-* Use o tema `chartreuse-dark` nas cartas de estatísticas.
-* Prefira imagens `.svg` para manter a nitidez no verde.
-* Deixe seções curtas e com ícones/ASCII para estética “terminal”.
-
----
-
-## 🧩 Roadmap de Aprendizado
-
-* [ ] Fundamentos Python (tipos, loops, funções)
-* [ ] CLI com `argparse`
-* [ ] Requests + scraping
-* [ ] Automação de tarefas no Linux
-* [ ] Testes com `pytest`
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/1zpssGb/matrix-skull.gif" width="420" alt="matrix skull"/>
-</p>
-
-<p align="center">Feito com 🐍 + 🟢</p>
-<!-- Banner Cyber -->
-<p align="center">
-  <img src="https://i.ibb.co/NsYnyF0/matrix-green.gif" width="600" alt="Matrix Hacker">
-</p>
-
-<h1 align="center">💀 rlzy | Neo Coder in Python 🐍</h1>
-
-<p align="center">
-  <i>"A Matrix é o código... e eu estou aprendendo a quebrá-lo linha por linha."</i>
-</p>
-
----
-
-## 🧑‍💻 Sobre mim
-```python
-class Hacker:
-    def __init__(self):
-        self.name = "rlzy"
-        self.learning = "Python"
-        self.mission = "Despertar e decodificar a Matrix"
-
-    def __str__(self):
-        return f"{self.name} | Estudando {self.learning} | Missão: {self.mission}"
-
-me = Hacker()
-print(me)
