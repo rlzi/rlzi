@@ -10,15 +10,6 @@
   <i>“A Matrix é código. Eu estou aprendendo Python para reescrever as regras.”</i>
 </p>
 
-<p align="center">
-  <a href="#jogo-cripta-da-gnose">🎮 Jogo</a> •
-  <a href="#graficos">📊 Gráficos</a> •
-  <a href="#sobre">🧠 Sobre</a> •
-  <a href="#setup">⚙️ Setup</a>
-</p>
-
----
-
 ## 🔥 Badges & Status
 
 <p align="center">
@@ -34,7 +25,6 @@
 
 <p id="graficos"></p>
 
-> Substitua **`rlzy`** nas URLs pelo seu usuário do GitHub se precisar.
 
 <div align="center">
 
