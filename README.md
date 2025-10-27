@@ -4,10 +4,10 @@
   <img src="https://i.ibb.co/NsYnyF0/matrix-green.gif" width="740" alt="Matrix Hacker">
 </p>
 
-<h1 align="center">💀 rlzy | Python Apprentice 🐍 — Cyber Green Edition</h1>
+<h1 align="center">rlzy | Python Aprendiz — Cyber</h1>
 
 <p align="center">
-  <i>“A Matrix é código. Eu estou aprendendo Python para reescrever as regras.”</i>
+  <i>“Apenas um programador”</i>
 </p>
 
 ## 🔥 Badges & Status
